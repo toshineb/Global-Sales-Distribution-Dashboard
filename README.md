@@ -1,6 +1,6 @@
 # 🌍 Global Sales Distribution Dashboard
 
-![Sales Distribution Dashboard](/SALE%20DISTRIBUTION.jpg)
+![Sales Distribution Dashboard](/SALEDISTRIBUTION.jpg)
 
 ## 📌 Project Overview
 
