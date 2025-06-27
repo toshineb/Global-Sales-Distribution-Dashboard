@@ -65,14 +65,4 @@ I’m **Tosin Bello**, a **Data Analyst and Data Scientist** with a passion for 
 
 ---
 
-## 📂 How to Explore
-
-To interact with this dashboard:
-
-1. Download the `.pbix` file (if included in this repo).
-2. Open with **Microsoft Power BI Desktop**.
-3. Use the filters, slicers, and visuals to explore insights by time, region, customer, and product.
-
----
-
 ## ⭐ Found this helpful or insightful? Star the repo and follow for more projects like this!
